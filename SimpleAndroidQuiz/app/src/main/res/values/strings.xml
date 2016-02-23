@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleAndroidQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_play"><b>PLAY</b></string>
+    <string name="button_next"><b>NEXT</b></string>
+    <string name="title_activity_start_quiz">StartQuizActivity</string>
+    <string name="que1">Android is based on which language.?</string>
+    <string name="que2">What is Android.?</string>
+    <string name="que3">Android is based on which kernal.?</string>
+    <string name="que4">Which Company developed Android.?</string>
+    <string name="que5">Which company baught Android.?</string>
+    <string name="que1option1">Java</string>
+    <string name="que1option2">C</string>
+    <string name="que1option3">C##</string>
+    <string name="que1option4">C++</string>
+    <string name="que2option1">Desktop Os</string>
+    <string name="que2option2">Programming language</string>
+    <string name="que2option3">Mobile OS</string>
+    <string name="que2option4">Database</string>
+    <string name="que3option1">Hybrid</string>
+    <string name="que3option2">Windows</string>
+    <string name="que3option3">Mac</string>
+    <string name="que3option4">Linux</string>
+    <string name="que4option1">Nokia</string>
+    <string name="que4option2">Intel</string>
+    <string name="que4option3">Apple</string>
+    <string name="que4option4">Android Inc.</string>
+    <string name="que5option1">nokia</string>
+    <string name="que5option2">Intel</string>
+    <string name="que5option3">Apple</string>
+    <string name="que5option4">Google</string>
+    <string name="title_activity_display_quiz_result">DisplayQuizResult</string>
+    <string name="btn_home">Home</string>
+
+</resources>
